@@ -64,3 +64,15 @@ This is a MEAN stack application, which uses MongoDB, Express.js, Angular, and N
 3. Open your browser and navigate to `http://localhost:4200`
 
 ## Project Structure
+
+The project structure is organized as follows:
+
+- `server/` - Contains the backend code (Node.js, Express)
+- `client/` - Contains the frontend code (Angular)
+- `config/` - Configuration files and environment variables
+- `models/` - Mongoose models for MongoDB
+- `routes/` - Express routes for API endpoints
+- `controllers/` - Functions to handle requests and responses
+- `middlewares/` - Custom middleware functions
+- `public/` - Static files served by the server
+- `tests/` - Test files for both backend and frontend
