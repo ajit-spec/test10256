@@ -76,3 +76,15 @@ The project structure is organized as follows:
 - `middlewares/` - Custom middleware functions
 - `public/` - Static files served by the server
 - `tests/` - Test files for both backend and frontend
+
+## API Documentation
+
+The API documentation is available in the `docs` folder.
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes and commit them
+4. Push your changes to your fork
+5. Create a pull request
